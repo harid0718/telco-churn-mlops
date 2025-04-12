@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+joblib
+scikit-learn
+xgboost==1.7.6
+pandas
+numpy
+matplotlib
+seaborn
+mlflow
